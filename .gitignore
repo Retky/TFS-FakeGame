@@ -78,3 +78,6 @@ fakeGame/DerivedDataCache/*
 
 # Blender backup
 *.blend1
+
+# Logs format file
+logs.psd
