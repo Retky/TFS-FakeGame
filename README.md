@@ -3,9 +3,9 @@
 > Experimental Video Game for testing props, animations, blueprints & other elements.
 
 ## Build on
-[![](https://img.shields.io/badge/Unreal%20Engine-4.27.2-ff7b00)](https://www.unrealengine.com/en-US/)
+[![](https://img.shields.io/badge/Unreal%20Engine-5.0.0-ff7b00)](https://www.unrealengine.com/en-US/)
 [![](https://img.shields.io/badge/Clip%20Studio%20Paint-1.11.14-ff7b00)](https://www.clipstudio.net/en/)
-[![](https://img.shields.io/badge/Blender-3.0.0-ff7b00)](https://www.blender.org)
+[![](https://img.shields.io/badge/Blender-3.1.2-ff7b00)](https://www.blender.org)
 
 ## 👤 Author :
 **J. Luis Arredondo** *(Retky)*
